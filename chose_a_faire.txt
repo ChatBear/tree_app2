@@ -1,0 +1,2 @@
+- Utiliser e faire marcher l'API et essayer d'approfondir les connaissances là dessus.
+- Créer les fichiers yaml pour faire marcher Kubernetes dessus : Comprendre ce qui se passe c'est vrmt important. 
